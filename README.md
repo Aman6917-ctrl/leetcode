@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
 | ------- |
@@ -38,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aman6917-ctrl/leetcode/tree/master/0100-same-tree) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->

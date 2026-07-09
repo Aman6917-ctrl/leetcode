@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->

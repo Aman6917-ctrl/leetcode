@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |

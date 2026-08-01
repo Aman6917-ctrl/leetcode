@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aman6917-ctrl/leetcode/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman6917-ctrl/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman6917-ctrl/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Aman6917-ctrl/leetcode/tree/master/1260-shift-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aman6917-ctrl/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Aman6917-ctrl/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

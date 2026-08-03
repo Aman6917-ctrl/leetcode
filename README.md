@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Aman6917-ctrl/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Aman6917-ctrl/leetcode/tree/master/1406-stone-game-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Aman6917-ctrl/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman6917-ctrl/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman6917-ctrl/leetcode/tree/master/0002-add-two-numbers) |
+| [1406-stone-game-iii](https://github.com/Aman6917-ctrl/leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aman6917-ctrl/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman6917-ctrl/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/Aman6917-ctrl/leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman6917-ctrl/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -156,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aman6917-ctrl/leetcode/tree/master/0002-add-two-numbers) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Aman6917-ctrl/leetcode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Aman6917-ctrl/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Aman6917-ctrl/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

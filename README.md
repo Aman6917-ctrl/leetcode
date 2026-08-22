@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/0045-jump-game-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Aman6917-ctrl/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Aman6917-ctrl/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Aman6917-ctrl/leetcode/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Aman6917-ctrl/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0455-assign-cookies](https://github.com/Aman6917-ctrl/leetcode/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aman6917-ctrl/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/Aman6917-ctrl/leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Aman6917-ctrl/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Aman6917-ctrl/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Aman6917-ctrl/leetcode/tree/master/0561-array-partition) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aman6917-ctrl/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Aman6917-ctrl/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Aman6917-ctrl/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Aman6917-ctrl/leetcode/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aman6917-ctrl/leetcode/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Aman6917-ctrl/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aman6917-ctrl/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aman6917-ctrl/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/0045-jump-game-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aman6917-ctrl/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aman6917-ctrl/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/Aman6917-ctrl/leetcode/tree/master/0409-longest-palindrome) |
 | [0621-task-scheduler](https://github.com/Aman6917-ctrl/leetcode/tree/master/0621-task-scheduler) |

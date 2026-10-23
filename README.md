@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aman6917-ctrl/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Aman6917-ctrl/leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/Aman6917-ctrl/leetcode/tree/master/0064-minimum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aman6917-ctrl/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aman6917-ctrl/leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Aman6917-ctrl/leetcode/tree/master/0561-array-partition) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aman6917-ctrl/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/Aman6917-ctrl/leetcode/tree/master/0045-jump-game-ii) |
+| [0064-minimum-path-sum](https://github.com/Aman6917-ctrl/leetcode/tree/master/0064-minimum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aman6917-ctrl/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1406-stone-game-iii](https://github.com/Aman6917-ctrl/leetcode/tree/master/1406-stone-game-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aman6917-ctrl/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Aman6917-ctrl/leetcode/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Aman6917-ctrl/leetcode/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
